@@ -63,5 +63,7 @@ src=null; store=authroot
 
 windows-update-ca-trust
 
+src=null; store=root
 
+windows-update-ca-trust
 
